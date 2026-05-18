@@ -1,4 +1,4 @@
-# Smart Translator 🌐
+# 🌐 Smart Translator 
 
 A multilingual translation app built with Python and Gradio that automatically detects the input language and translates it using 
 Hugging Face NLP models.
